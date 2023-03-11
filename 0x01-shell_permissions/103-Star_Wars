@@ -1,0 +1,3 @@
+#!/bin/bash
+telnet towel.blinkonlights.nl
+
